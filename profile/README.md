@@ -1,6 +1,15 @@
-<p align="center"><img width="1254" height="1254" alt="Stylized White API Ribbon Logo" src="https://github.com/user-attachments/assets/088ce030-4be8-4d53-b315-06d8110e110a" height="160px" width="160px"/> 
+<p align="center">
+  <img
+    alt="Stylized White API Ribbon Logo"
+    src="1000018253_gwr_video_mvp.gif"
+    height="160px"
+    width="160px"
+  />
 </p>
 
+<!--
+width="1254" height="1254"
+-->
 
 <div align="center">
 
