@@ -1,15 +1,12 @@
 <p align="center">
   <img
+    width="1254" height="1254"
     alt="Stylized White API Ribbon Logo"
     src="1000018253_gwr_video_mvp.gif"
     height="160px"
     width="160px"
   />
 </p>
-
-<!--
-width="1254" height="1254"
--->
 
 <div align="center">
 
